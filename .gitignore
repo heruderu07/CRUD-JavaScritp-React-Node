@@ -1,0 +1,26 @@
+
+
+# dependencies
+/node_modules
+FrontEnd/app/node_modules
+FrontEnd/app/public
+FrontEnd/app/.pnp
+.pnp.js
+
+# testing
+FrontEnd/app/coverage
+
+# production
+FrontEnd/app/build
+
+# misc
+FrontEnd/app/.DS_Store
+FrontEnd/app/.env.local
+FrontEnd/app/.env.development.local
+FrontEnd/app/.env.test.local
+FrontEnd/app/.env.production.local
+FrontEnd/app/README.md
+
+FrontEnd/app/npm-debug.log*
+FrontEnd/app/yarn-debug.log*
+FrontEnd/app/yarn-error.log*
